@@ -1,0 +1,5 @@
+numpy==1.26.4
+streamlit==1.29.0
+streamlit
+sklearn
+pickle
